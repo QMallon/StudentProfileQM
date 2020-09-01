@@ -1,0 +1,10 @@
+C:\Users\qpm5\source\repos\StudentProfileQM\StudentProfileQM\bin\Debug\StudentProfileQM.exe.config
+C:\Users\qpm5\source\repos\StudentProfileQM\StudentProfileQM\bin\Debug\StudentProfileQM.exe
+C:\Users\qpm5\source\repos\StudentProfileQM\StudentProfileQM\bin\Debug\StudentProfileQM.pdb
+C:\Users\qpm5\source\repos\StudentProfileQM\StudentProfileQM\obj\Debug\StudentProfileQM.csprojAssemblyReference.cache
+C:\Users\qpm5\source\repos\StudentProfileQM\StudentProfileQM\obj\Debug\StudentProfileQM.frmStudentProfile.resources
+C:\Users\qpm5\source\repos\StudentProfileQM\StudentProfileQM\obj\Debug\StudentProfileQM.Properties.Resources.resources
+C:\Users\qpm5\source\repos\StudentProfileQM\StudentProfileQM\obj\Debug\StudentProfileQM.csproj.GenerateResource.cache
+C:\Users\qpm5\source\repos\StudentProfileQM\StudentProfileQM\obj\Debug\StudentProfileQM.csproj.CoreCompileInputs.cache
+C:\Users\qpm5\source\repos\StudentProfileQM\StudentProfileQM\obj\Debug\StudentProfileQM.exe
+C:\Users\qpm5\source\repos\StudentProfileQM\StudentProfileQM\obj\Debug\StudentProfileQM.pdb
